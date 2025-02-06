@@ -57,4 +57,4 @@ This is a simple **Ping Pong game** implemented using Python's `turtle` graphics
 ## Screenshots
 
 - Player 1 (Red) vs Player 2 (Blue) with the ball in play:
-  ![Ping Pong Gameplay]([./[screenshots/ping_pong_gameplay.png](https://github.com/MohammedHamza0/pingPong/blob/main/Screenshot%202025-02-06%20121930.png)](https://github.com/MohammedHamza0/pingPong/blob/main/Screenshot%202025-02-06%20121930.png))  
+  ![Ping Pong Gameplay](https://github.com/MohammedHamza0/pingPong/blob/main/Screenshot%202025-02-06%20121930.png)  
